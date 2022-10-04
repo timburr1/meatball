@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/chomp.mp3-3bccbe7b509d327ee6bf6b0ff7c256d7.mp3str"
+
+[deps]
+
+source_file="res://resources/chomp.mp3"
+dest_files=[ "res://.import/chomp.mp3-3bccbe7b509d327ee6bf6b0ff7c256d7.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
